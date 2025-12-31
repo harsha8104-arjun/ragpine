@@ -1,0 +1,4 @@
+streamlit
+Pinecone
+transformers
+sentence_transformers 
