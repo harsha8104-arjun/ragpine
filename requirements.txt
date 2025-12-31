@@ -1,4 +1,4 @@
 streamlit
-Pinecone
+pinecone
 transformers
 sentence_transformers 
